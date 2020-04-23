@@ -1,4 +1,4 @@
-# facefication
+# smart-brain backend
 
 This is the backend part of the Face Recognition App. I made this project via watching of the [Udemy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course.
 
