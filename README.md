@@ -1,11 +1,11 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+# facefication
+
+This is the backend part of the Face Recognition App. I made this project via watching of the [Udemy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course.
+
+To run the project:
 
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
-4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
-
-** Make sure you use postgreSQL instead of mySQL for this code base.
+If you have a problem when installing or starting the project you can simply add `sudo` to your install or start command.
